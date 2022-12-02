@@ -1,5 +1,5 @@
 # АНАЛИЗ ДАННЫХ И ИСКУССТВЕННЫЙ ИНТЕЛЛЕКТ [in GameDev]
-Отчет по лабораторной работе #1 выполнил(а):
+Отчет по лабораторной работе #5 выполнил(а):
 - Худорожков Георгий Олегович
 - РИ211102
 Отметка о выполнении заданий (заполняется студентом):
@@ -21,24 +21,17 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 ## Цель работы
-Ознакомиться с основными операторами зыка Python на примере реализации линейной регрессии.
+Интеграция экономической системы в проект Unity и обучение ML-Agent.
 ## Задание 1
-### Написать программы Hello World на Pyton и Unity
-- Скриншот google.collab.
-- ![image](https://user-images.githubusercontent.com/114441283/192611408-87d4fa81-cd42-4ac7-bdf3-ae56a697aeca.png)
-- Ссылка https://colab.research.google.com/drive/1jzbq7LtQqfR6u6Xf9hEfrqG6Nq9n2Rcd
-- Скриншот Jupyter.
-- ![image](https://user-images.githubusercontent.com/114441283/192611627-9e6a6892-4b82-4839-b090-34d613a2195a.png)
-- Скриншот Unity.
--  ![image](https://user-images.githubusercontent.com/114441283/192611929-27d5d33b-0a44-4d09-98fe-75407e833a61.png)
-## Задание 2
-### Пошагово выполнить каждый пункт раздела "ход работы" с описанием и примерами реализации задач
+### Измените параметры файла. yaml-агента и определить какие параметры и как влияют на обучение модели.
+- ![image](https://user-images.githubusercontent.com/114441283/205365903-86ba2f80-bbc4-4483-97fc-d32b68d0d916.png)
+Делал всё как в 3 лабе, ML-agent не обучается.
 
 
 
 ## Выводы
 
-В ходе выполненной лабораторной работы были получены начальные знания о работе в Unity, Jupyter, github и google.collab.
+В ходе выполненной лабораторной работы была проведена интеграция экономической системы в проект Unity.
 
 | Plugin | README |
 | ------ | ------ |
